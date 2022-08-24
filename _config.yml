@@ -1,5 +1,5 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+title: Myung-Hwan Jeon
+description: github
 author: Myung-Hwan Jeon
 avatar: /logo.png
 email: jmong1994@gmail.com
@@ -29,15 +29,18 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
+instragram:
+  username: jeon____
   card: summary
+#twitter:
+#  username: ngzhio
+#  card: summary
 logo: logo.png
 social:
   name: Shangzhi Huang
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://www.instagram.com/jeon____
+#    - https://www.facebook.com/ngzhio
+    - https://github.com/MyungHwanJeon
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
