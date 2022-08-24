@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Myung-Hwan Jeon
-title: Ph.D Student of Robotics Program 
+title: Ph.D. Candidate of Robotics Program in KAIST
 email: myunghwan.jeon@kaist.ac.kr
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -52,7 +52,11 @@ googlescholar_username: ivOqySYAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I an a Ph.D. candidate in [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr) advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).
+  
+  My research topic is fouced on the Perception and Reoncognition for Robotic Manipulation, and Simultaneously Localization and Mapping(SLAM).
+
+  #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
