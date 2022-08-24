@@ -26,7 +26,7 @@ github_username:  MyungHwanJeon
 #facebook_username: jekyll
 #flickr_username: jekyll
 instagram_username: jeon____
-linkedin_username: /myung-hwan-jeon-544613219
+linkedin_username: myung-hwan-jeon-544613219
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -34,10 +34,10 @@ orcid_username: 0000-0003-3611-0298
 googlescholar_username: ivOqySYAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
