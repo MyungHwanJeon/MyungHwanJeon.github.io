@@ -148,10 +148,10 @@ content:
                  
           
   - title: Publications
-    layout: text (options: list, text)
+    layout: text
     content: | # this will include new lines to allow paragraphs
-      1. aaaaaaaaaaa
-      2. aaaaaaaaaaa
+      1. **aaa** bbb
+      2. **aaa** bbb
 
 # Footer
 footer_show_references: true
