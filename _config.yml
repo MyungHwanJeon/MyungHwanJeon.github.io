@@ -52,7 +52,7 @@ googlescholar_username: ivOqySYAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.JPG
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. candidate of [Robotic Progrom](https://rp.kaist.ac.kr) in [KAIST](https://www.kaist.ac.kr). I am a memeber of [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr) advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).
+  I am a Ph.D. candidate of [Robotic Progrom](https://rp.kaist.ac.kr) in [KAIST](https://www.kaist.ac.kr). Due to personal reasons, I am currently a memeber of [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr) advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).
   
   My research topic is fouced on the Perception and Reoncognition for Robotic Manipulation, and Simultaneously Localization and Mapping(SLAM).
 
