@@ -83,6 +83,27 @@ content:
   - title: Positions
     layout: list
     content:
+    
+      - layout: top-left
+        title: SNU 
+        sub_title: Graduate Student Teaching Assistant
+        caption: Sep. 2022 - Dec. 2022   
+        link: http://www.snu.ac.kr/
+        quote: >
+          Seoul National University(SNU) was estblished in 1895 and is located in Seoul, Korea.
+        description: | # this will include new lines to allow paragraphs
+          I executed an assistant in a lecture, AIME: Advanced Topics in Mechanical Engineering 4.        
+    
+      - layout: top-left
+        title: KIAST 
+        sub_title: Graduate Student Teaching Assistant
+        caption: Sep. 2019 - Dec. 2019   
+        link: http://www.kaist.ac.kr/
+        quote: >
+          Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.
+        description: | # this will include new lines to allow paragraphs
+          I executed an assistant in a lecture, CE544: Mechanical Design of Civil Robot.    
+    
       - layout: top-left
         title: CHIC
         sub_title: Researcher
@@ -92,18 +113,21 @@ content:
           A Center of Human-centered Interaction for Coexistence(CHIC) is established in 2010 and located in Seoul, Korea.
         description: | # this will include new lines to allow paragraphs
           I conducted research into an interactive interface for VR/AR. Specifically, I developed an interface for manipulating complex articulated objects placed in virtual space.
+
+
   - title: Education
     layout: list
     content:
-      - layout: top-left
-        title: Kwangwoon University
-        sub_title: B.S. in Division of Robotics
-        caption: Mar. 2012 - Feb. 2017        
-        quote: >
-          Kwangwoon university was estblished in 1962 and is located in Seoul, Korea.    
-        description: | # this will include new lines to allow paragraphs
-          I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "[BARAM](https://cafe.naver.com/roboticsbaram)", an academic club.
-          
+    
+      # - layout: top-left
+      #  title: KAIST
+      #  sub_title: Ph.D. in Robotic Program
+      #  caption: Mar. 2020 - Feb. 2023       
+      #  quote: >
+      #    Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.                    
+      #  description: | # this will include new lines to allow paragraphs
+      #    Description of qualification        
+    
       - layout: top-left
         title: KAIST
         sub_title: M.S. in Robotic Program
@@ -112,22 +136,22 @@ content:
           Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.                    
         description: | # this will include new lines to allow paragraphs
           I received a M.S. degree in robotic program in KAIST. I was a member of the IRAP lab (currently moved to the [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr)), and advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).   
+                
+      - layout: top-left
+        title: Kwangwoon University
+        sub_title: B.S. in Division of Robotics
+        caption: Mar. 2012 - Feb. 2017        
+        quote: >
+          Kwangwoon university was estblished in 1962 and is located in Seoul, Korea.    
+        description: | # this will include new lines to allow paragraphs
+          I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "[BARAM](https://cafe.naver.com/roboticsbaram)", an academic club.
+                 
           
-      # - layout: top-left
-      #  title: KAIST
-      #  sub_title: Ph.D. in Robotic Program
-      #  caption: Mar. 2020 - Feb. 2023       
-      #  quote: >
-      #    Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.                    
-      #  description: | # this will include new lines to allow paragraphs
-      #    Description of qualification            
-          
-  - title: A Little More About Me
-    layout: text
+  - title: Publications
+    layout: text (options: list, text)
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      1. aaaaaaaaaaa
+      2. aaaaaaaaaaa
 
 # Footer
 footer_show_references: true
