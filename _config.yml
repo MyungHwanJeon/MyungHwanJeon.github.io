@@ -99,12 +99,16 @@ content:
     content:
       - layout: top-left
         title: Kwangwoon University
-        sub_title: B.S. in Division of Robotics(Information Control)
-        caption: 2012 - 2017
-        quote: >
-          Short institution or course description (optional)
+        sub_title: B.S. in Division of Robotics
+        caption: 2012 - 2017        
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+      - layout: top-left
+        title: Korea Advanced Institute of Science and Technology(KAIST)
+        sub_title: M.S. in Robotic Program
+        caption: 2018 - 2020        
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
