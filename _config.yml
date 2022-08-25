@@ -113,7 +113,7 @@ content:
         quote: >
           Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.                    
         description: | # this will include new lines to allow paragraphs
-          I received a M.S. degree in robotic program in KAIST. I was a member of  I was a member of the IRAP lab (currently moved to the [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr)), and advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).   
+          I received a M.S. degree in robotic program in KAIST. I was a member of the IRAP lab (currently moved to the [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr)), and advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).   
           
       # - layout: top-left
       #  title: KAIST
