@@ -104,7 +104,7 @@ content:
         quote: >
           Kwangwoon university was estblished in 1962 and is located in Seoul, Korea.    
         description: | # this will include new lines to allow paragraphs
-          I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "BARAM", an academic club.
+          I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "[BARAM](https://cafe.naver.com/roboticsbaram)", an academic club.
           
       - layout: top-left
         title: KAIST
