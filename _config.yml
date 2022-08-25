@@ -100,7 +100,8 @@ content:
         sub_title: Graduate Student Teaching Assistant
         caption: Sep. 2019 - Dec. 2019   
         link: http://www.kaist.ac.kr/
-        #quote: >
+        quote: >
+        
         #  Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.
         description: | # this will include new lines to allow paragraphs
           I executed an assistant in a lecture, CE544: Mechanical Design of Civil Robot.    
@@ -110,7 +111,8 @@ content:
         sub_title: Researcher
         caption: Jan. 2017 - Jan. 2018   
         link: http://www.chic.re.kr/
-        #quote: >
+        quote: >
+        
         #  A Center of Human-centered Interaction for Coexistence(CHIC) is established in 2010 and located in Seoul, Korea.
         description: | # this will include new lines to allow paragraphs
           I conducted research into an interactive interface for VR/AR. Specifically, I developed an interface for manipulating complex articulated objects placed in virtual space.
@@ -134,7 +136,8 @@ content:
         sub_title: M.S. in Robotic Program
         caption: Mar. 2018 - Feb. 2020       
         link: http://www.kaist.ac.kr/
-        #quote: >
+        quote: >
+        
         #  Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.                    
         description: | # this will include new lines to allow paragraphs
           I received a M.S. degree in robotic program in KAIST. I was a member of the IRAP lab (currently moved to the [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr)), and advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).   
@@ -144,7 +147,8 @@ content:
         sub_title: B.S. in Division of Robotics
         caption: Mar. 2012 - Feb. 2017   
         link: http://www.kw.ac.kr/
-        #quote: >
+        quote: >
+        
         #  Kwangwoon university was estblished in 1962 and is located in Seoul, Korea.    
         description: | # this will include new lines to allow paragraphs
           I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "[BARAM](https://cafe.naver.com/roboticsbaram)", an academic club.
