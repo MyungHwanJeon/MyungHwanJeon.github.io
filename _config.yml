@@ -152,12 +152,12 @@ content:
     content:
     
       - layout: top-left
-        title: aaaaa 
+        title: 1 
         description: | # this will include new lines to allow paragraphs
           bbbbbbbbbbb
           
       - layout: top-left
-        title: bbbbbbbbbbb 
+        title: 2 
         description: | # this will include new lines to allow paragraphs
           bbbbbbbbbbb
 
