@@ -100,20 +100,29 @@ content:
       - layout: top-left
         title: Kwangwoon University
         sub_title: B.S. in Division of Robotics
-        caption: 2012 - 2017        
+        caption: Mar. 2012 - Feb. 2017        
         quote: >
           Kwangwoon university was estblished in 1962 and is located in Seoul, Korea.    
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "BARAM", an academic club.
           
       - layout: top-left
         title: KAIST
         sub_title: M.S. in Robotic Program
-        caption: 2018 - 2020       
+        caption: Mar. 2018 - Feb. 2020       
         quote: >
           Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.                    
         description: | # this will include new lines to allow paragraphs
-          Description of qualification          
+          I received a M.S. degree in robotic program in KAIST. I was a member of  I was a member of the IRAP lab (currently moved to the [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr)), and advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).   
+          
+      # - layout: top-left
+      #  title: KAIST
+      #  sub_title: Ph.D. in Robotic Program
+      #  caption: Mar. 2020 - Feb. 2023       
+      #  quote: >
+      #    Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.                    
+      #  description: | # this will include new lines to allow paragraphs
+      #    Description of qualification            
           
   - title: A Little More About Me
     layout: text
