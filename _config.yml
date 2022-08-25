@@ -82,18 +82,18 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: Positions
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: top-left
+        title: CHIC
+        sub_title: Researcher
+        caption: Jan. 2017 - Jan. 2018   
+        link: http://www.chic.re.kr/
         quote: >
-          Short description of the company (optional)
+          A Center of Human-centered Interaction for Coexistence(CHIC) is estabilshed in 2010 and located in Seoul, Korea.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          I conducted research into an interactive interface for VR/AR. Specifically, I developed an interface for manipulating complex articulated objects placed in virtual space.
   - title: Education
     layout: list
     content:
