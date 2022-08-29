@@ -147,11 +147,11 @@ content:
         description: | # this will include new lines to allow paragraphs        
           
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <span class="profile-img" style="background-image: url({{images/me.JPG| relative_url }})"></span>
+            <span class="profile-img" style="background-image: url({{images/me.JPG | relative_url }})"></span>
           </div>
           
-          <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
-            {{ I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself. | strip | markdownify }}
+          <div class="col-sm-8 col-md-9 col-print-12">
+            {{I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself. | strip | markdownify }}
           </div>
         
          
