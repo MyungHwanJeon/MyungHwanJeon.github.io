@@ -33,20 +33,7 @@ linkedin_username: myung-hwan-jeon-544613219
 orcid_username: 0000-0003-3611-0298
 googlescholar_username: ivOqySYAAAAJ
 
-# Additional icon links
-# additional_links:
-# - title: Link name
-#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -69,9 +56,6 @@ content:
         sub_title: Graduate Student Teaching Assistant
         caption: Sep. 2022 - Dec. 2022   
         link: http://www.snu.ac.kr/
-        #quote: >
-        # 
-        #  Seoul National University(SNU) was estblished in 1895 and is located in Seoul, Korea.
         description: | # this will include new lines to allow paragraphs
           <br/> I executed an assistant in a lecture, AIME: Advanced Topics in Mechanical Engineering 4.        
     
@@ -80,9 +64,6 @@ content:
         sub_title: Graduate Student Teaching Assistant
         caption: Sep. 2019 - Dec. 2019   
         link: http://www.kaist.ac.kr/
-        #quote: >
-        #
-        #  Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.
         description: | # this will include new lines to allow paragraphs
           <br/> I executed an assistant in a lecture, CE544: Mechanical Design of Civil Robot.    
     
@@ -91,9 +72,6 @@ content:
         sub_title: Researcher
         caption: Jan. 2017 - Jan. 2018   
         link: http://www.chic.re.kr/
-        #quote: >
-        #
-        #  A Center of Human-centered Interaction for Coexistence(CHIC) is established in 2010 and located in Seoul, Korea.
         description: | # this will include new lines to allow paragraphs
           <br/> I conducted research into an interactive interface for VR/AR. Specifically, I developed an interface for manipulating complex articulated objects placed in virtual space.
 
@@ -115,10 +93,7 @@ content:
         title: KAIST
         sub_title: M.S. in Robotic Program
         caption: Mar. 2018 - Feb. 2020       
-        link: http://www.kaist.ac.kr/
-        #quote: >
-        #
-        #  Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.                    
+        link: http://www.kaist.ac.kr/               
         description: | # this will include new lines to allow paragraphs
           <br/> I received a M.S. degree in robotic program in KAIST. I was a member of the IRAP lab (currently moved to the [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr)), and advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).   
                 
@@ -126,10 +101,7 @@ content:
         title: Kwangwoon University
         sub_title: B.S. in Division of Robotics
         caption: Mar. 2012 - Feb. 2017   
-        link: http://www.kw.ac.kr/
-        #quote: >
-        #
-        #  Kwangwoon university was estblished in 1962 and is located in Seoul, Korea.    
+        link: http://www.kw.ac.kr/ 
         description: | # this will include new lines to allow paragraphs
           <br/> I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "[BARAM](https://cafe.naver.com/roboticsbaram)", an academic club.
               
@@ -142,19 +114,32 @@ content:
         caption: 2013
         link: https://youtu.be/xUFVXe3pzGw?t=79
         link_text: Video
-        #quote: >
-        #  
         description: | # this will include new lines to allow paragraphs        
         
           <div class="row clearfix">  
             <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-              <a href="https://www.youtube.com/watch?v=akbI61jUJgY"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
+              <a href="https://youtu.be/xUFVXe3pzGw?t=79"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
-
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.</p>
             </div>
           </div>
+          
+      - layout: top-left        
+        title: Delta Robot Application
+        caption: 2013
+        link: https://www.youtube.com/watch?v=zkZKcts7cQ4
+        link_text: Video
+        description: | # this will include new lines to allow paragraphs        
+        
+          <div class="row clearfix">  
+            <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+              <a href="https://www.youtube.com/watch?v=zkZKcts7cQ4"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
+            </div>
+            <div class="col-sm-8 col-md-9 col-print-12">                            
+              <p> <br/> We developed a delta robot of parallel robots for object detection with robot vision on the conveyor belt. The project received a **chairman's award** from Texas Instrument (TI) Innovation Challenge: Korean MCU design context 2013.</p>
+            </div>
+          </div>          
          
   
           
