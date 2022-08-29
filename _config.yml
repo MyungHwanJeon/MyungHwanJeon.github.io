@@ -137,8 +137,10 @@ content:
               <a href="https://www.youtube.com/watch?v=zkZKcts7cQ4"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
-              <p> <br/> We developed a delta robot of parallel robots for object detection with robot vision on the conveyor belt. </p>
-              <br/> - <p> "Chairman's Award", Texas Instrument (TI) Innovation Challenge: Korean MCU design context 2013.</p> 
+              <p> <br/> We developed a delta robot of parallel robots for object detection with robot vision on the conveyor belt. <br/> </p>              
+              <ul>
+                <li>"<b>Chairman's Award</b>", Texas Instrument (TI) Innovation Challenge: Korean MCU design context 2013.</li>                
+              </ul>              
             </div>
           </div>          
          
