@@ -118,7 +118,7 @@ content:
         
           <div class="row clearfix">  
             <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-              <a href="https://youtu.be/xUFVXe3pzGw?t=79"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
+              <a href="https://youtu.be/xUFVXe3pzGw?t=79"><img src="images/bike.png" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum.</p>
