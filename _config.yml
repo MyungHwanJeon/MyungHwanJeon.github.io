@@ -147,7 +147,7 @@ content:
         description: | # this will include new lines to allow paragraphs        
         
           <div class="row clearfix">  
-            <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <div>
               <a href="https://www.youtube.com/watch?v=akbI61jUJgY"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
 
