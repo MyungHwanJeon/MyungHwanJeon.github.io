@@ -151,13 +151,12 @@ content:
               <a href="https://www.youtube.com/watch?v=akbI61jUJgY"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
 
-            <div class="col-sm-8 col-md-9 col-print-12">
-              #I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.
+            <div class="col-sm-8 col-md-9 col-print-12">              
               {{ about_content | strip | markdownify }}
             </div>
           </div>
          
-                                               
+  #I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.                                               
           
   - title: Publications
     layout: text
