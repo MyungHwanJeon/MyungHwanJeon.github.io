@@ -158,6 +158,8 @@ content:
     layout: text
     content: |
      
+      Eon-ho Lee, Byungjae Park,  **<U>Myung-Hwan Jeon</U>**, Hyesu Jang, Ayoung Kim and Sejin Lee, "Data augmentation using image translation for underwater sonar image segmentation", in PLoS ONE 17(8): e0272602. https://doi.org/10.1371/journal.pone.0272602
+     
       Seungsang Yun, Minwoo Jung, Jeongyun Kim, Sangwoo Jung, Younghun Cho, **<U>Myung-Hwan Jeon</U>**, Giseop Kim, and Ayoung Kim, "STheReO: Stereo Thermal Dataset for Research in Odometry and Mapping", Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
 
       Jeongyun Kim, **<U>Myung-Hwan Jeon</U>**, and Ayoung Kim, "Enhancing Single Thermal Image Depth Estimation via Multi-Channel Remapping for Thermal Images", in Journal of Korea Robotics Society, vol. 17, no. 3. The Korea Robotics Society, pp. 314–321, 2022.
