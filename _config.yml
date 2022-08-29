@@ -134,7 +134,7 @@ content:
         
           <div class="row clearfix">  
             <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-              <a href="https://www.youtube.com/watch?v=zkZKcts7cQ4"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
+              <a href="https://www.youtube.com/watch?v=zkZKcts7cQ4"><img src="images/delta.png" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> We developed a delta robot of parallel robots for object detection with robot vision on the conveyor belt. <br/> </p>              
@@ -153,7 +153,7 @@ content:
         
           <div class="row clearfix">  
             <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-              <a href="https://www.youtube.com/watch?v=IBtf0JAw3jA"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
+              <a href="https://www.youtube.com/watch?v=IBtf0JAw3jA"><img src="images/helper.png" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> We developed a Human-Robot Interaction (HRI) system for a robot manipulator called "helper". <br/> </p>              
@@ -173,7 +173,7 @@ content:
         
           <div class="row clearfix">  
             <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-              <a href="https://www.youtube.com/watch?v=tfgsq2MSX-A"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
+              <a href="https://www.youtube.com/watch?v=tfgsq2MSX-A"><img src="images/dot.png" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> We developed a mobile braille device and a braille keyboard for smartphone. We tried to improve the life quality for the visually impaired. <br/> </p>              
