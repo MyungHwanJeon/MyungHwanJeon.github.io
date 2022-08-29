@@ -152,8 +152,7 @@ content:
             </div>
 
             <div class="col-sm-8 col-md-9 col-print-12">                            
-              <p> 
-              </p>
+              <p> # </p>
               <p>I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.</p>
             </div>
           </div>
