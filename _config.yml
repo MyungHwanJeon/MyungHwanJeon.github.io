@@ -157,10 +157,24 @@ content:
   - title: Publications
     layout: text
     content: |
+     
+      Seungsang Yun, Minwoo Jung, Jeongyun Kim, Sangwoo Jung, Younghun Cho, **<U>Myung-Hwan Jeon</U>**, Giseop Kim, and Ayoung Kim, "STheReO: Stereo Thermal Dataset for Research in Odometry and Mapping", Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
 
-      **<U>Myung-Hwan Jeon</U>** and Ayoung Kim, "PrimA6D: Rotational Primitive Reconstruction for Enhanced and Robust 6D Pose Estimation," in IEEE Robotics and Automation Letters, vol. 5, no. 3, pp. 4955-4962, 2020.
+      Jeongyun Kim, **<U>Myung-Hwan Jeon</U>**, and Ayoung Kim, "Enhancing Single Thermal Image Depth Estimation via Multi-Channel Remapping for Thermal Images", in Journal of Korea Robotics Society, vol. 17, no. 3. The Korea Robotics Society, pp. 314–321, 2022.
 
-      **Myung-Hwan Jeon** and Ayoung Kim, "PrimA6D: Rotational Primitive Reconstruction for Enhanced and Robust 6D Pose Estimation," in IEEE Robotics and Automation Letters, vol. 5, no. 3, pp. 4955-4962, 2020.
+      Joowan Kim, **<U>Myung-Hwan Jeon</U>**, Younggun Cho, Ayoung Kim, "Dark Synthetic Vision: Lightweight Active Vision to Navigate in the Dark", in IEEE Robotics and Automation Letters, vol. 6, no. 1, pp. 143-150, Jan. 2021, doi: 10.1109/LRA.2020.3035137.
+      
+      **<U>Myung-Hwan Jeon</U>** and Ayoung Kim, "PrimA6D: Rotational Primitive Reconstruction for Enhanced and Robust 6D Pose Estimation", in IEEE Robotics and Automation Letters, vol. 5, no. 3, pp. 4955-4962, 2020.
+      
+      Eon-Ho Lee, **<U>Myung-Hwan Jeon</U>**, Hyesu Jang, Byungjae Park, Ayoung Kim, and Sejin Lee, "Study on the Training Effectiveness of Deep Learning with Synthesized Underwater Sonar Image Using Pix2Pix and FCN", in 2020 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV), 2020.
+
+      Jun-Sik Kim, **<U>Myung-Hwan Jeon</U>**, and Jung-Min Park, "Multi-Hand Direct Manipulation of Complex Constrained Virtual Objects", in 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, pp. 3235-3240, doi: 10.1109/IROS40897.2019.8968088.      
+
+      **<U>Myung-Hwan Jeon</U>**, Yeongjun Lee, Young-Sik Shin, Hyesu Jang, Taekyeong Yeu, and Ayoung Kim, “Synthesizing Image and Automated Annotation Tool for CNN based Under Water Object Detection”, in Journal of Korea Robotics Society, vol. 14, no. 2. The Korea Robotics Society, pp. 139–149, 2019.
+
+      **<U>Myung-Hwan Jeon</U>**, Yeongjun Lee, Young-Sik Shin, Hyesu Jang, and Ayoung Kim, "Underwater Object Detection and Pose Estimation using Deep Learning", in 12th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles , 2019.
+
+      **<U>Myung-Hwan Jeon</U>**, Yeongjun Lee, Young-Sik Shin, Hyesu Jang, and Ayoung Kim, "Deep Learning Based Underwater Object Detection and Pose Estimation", in workshop on IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018.
 
 
 # Footer
