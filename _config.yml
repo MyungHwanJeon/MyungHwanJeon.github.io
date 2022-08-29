@@ -152,7 +152,30 @@ content:
         #  Kwangwoon university was estblished in 1962 and is located in Seoul, Korea.    
         description: | # this will include new lines to allow paragraphs
           I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "[BARAM](https://cafe.naver.com/roboticsbaram)", an academic club.
-                 
+              
+
+   - title: Project In [BARAM](https://cafe.naver.com/roboticsbaram)
+     layout: list # Type of content section (list/text)
+     content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Self-Balancing Bike
+        link: https://youtu.be/xUFVXe3pzGw?t=79
+        link_text: Link Text
+        #additional_links:
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
+        #  Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.
+
+             
           
   - title: Publications
     layout: text
@@ -178,6 +201,11 @@ content:
 
       - **<U>Myung-Hwan Jeon</U>**, Yeongjun Lee, Young-Sik Shin, Hyesu Jang, and Ayoung Kim, "[Deep Learning Based Underwater Object Detection and Pose Estimation](http://irosworkshop.marinerobotics.eu/wp-content/uploads/2018/10/Fr-WS19-08.pdf)", in workshop on IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018.
 
+  - title: Acknowledgement
+    layout: text
+    content: |
+    
+      MIT License, Copyright (c) 2018 James Grant
 
 # Footer
 footer_show_references: true
