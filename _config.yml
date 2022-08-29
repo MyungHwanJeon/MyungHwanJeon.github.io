@@ -151,7 +151,7 @@ content:
               <a href="https://www.youtube.com/watch?v=akbI61jUJgY"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
 
-            <div class="col-sm-8 col-md-9 col-print-12">              
+            <div class="col-xs-12">              
               {{ about_content | strip | markdownify }}
             </div>
           </div>
