@@ -69,33 +69,33 @@ content:
         sub_title: Graduate Student Teaching Assistant
         caption: Sep. 2022 - Dec. 2022   
         link: http://www.snu.ac.kr/
-        quote: >
-         
+        #quote: >
+        # 
         #  Seoul National University(SNU) was estblished in 1895 and is located in Seoul, Korea.
         description: | # this will include new lines to allow paragraphs
-          I executed an assistant in a lecture, AIME: Advanced Topics in Mechanical Engineering 4.        
+          <br/> I executed an assistant in a lecture, AIME: Advanced Topics in Mechanical Engineering 4.        
     
       - layout: top-left
         title: KIAST 
         sub_title: Graduate Student Teaching Assistant
         caption: Sep. 2019 - Dec. 2019   
         link: http://www.kaist.ac.kr/
-        quote: >
-        
+        #quote: >
+        #
         #  Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.
         description: | # this will include new lines to allow paragraphs
-          I executed an assistant in a lecture, CE544: Mechanical Design of Civil Robot.    
+          <br/> I executed an assistant in a lecture, CE544: Mechanical Design of Civil Robot.    
     
       - layout: top-left
         title: CHIC
         sub_title: Researcher
         caption: Jan. 2017 - Jan. 2018   
         link: http://www.chic.re.kr/
-        quote: >
-        
+        #quote: >
+        #
         #  A Center of Human-centered Interaction for Coexistence(CHIC) is established in 2010 and located in Seoul, Korea.
         description: | # this will include new lines to allow paragraphs
-          I conducted research into an interactive interface for VR/AR. Specifically, I developed an interface for manipulating complex articulated objects placed in virtual space.
+          <br/> I conducted research into an interactive interface for VR/AR. Specifically, I developed an interface for manipulating complex articulated objects placed in virtual space.
 
 
   - title: Education
@@ -116,22 +116,22 @@ content:
         sub_title: M.S. in Robotic Program
         caption: Mar. 2018 - Feb. 2020       
         link: http://www.kaist.ac.kr/
-        quote: >
-        
+        #quote: >
+        #
         #  Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.                    
         description: | # this will include new lines to allow paragraphs
-          I received a M.S. degree in robotic program in KAIST. I was a member of the IRAP lab (currently moved to the [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr)), and advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).   
+          <br/> I received a M.S. degree in robotic program in KAIST. I was a member of the IRAP lab (currently moved to the [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr)), and advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).   
                 
       - layout: top-left
         title: Kwangwoon University
         sub_title: B.S. in Division of Robotics
         caption: Mar. 2012 - Feb. 2017   
         link: http://www.kw.ac.kr/
-        quote: >
-        
+        #quote: >
+        #
         #  Kwangwoon university was estblished in 1962 and is located in Seoul, Korea.    
         description: | # this will include new lines to allow paragraphs
-          I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "[BARAM](https://cafe.naver.com/roboticsbaram)", an academic club.
+          <br/> I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "[BARAM](https://cafe.naver.com/roboticsbaram)", an academic club.
               
               
   - title: Projects in BARAM, a academic club
