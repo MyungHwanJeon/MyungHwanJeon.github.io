@@ -134,31 +134,17 @@ content:
           I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "[BARAM](https://cafe.naver.com/roboticsbaram)", an academic club.
               
               
-  - title: Projects In [BARAM](https://cafe.naver.com/roboticsbaram)
+  - title: Projects in BARAM, as a academic club
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
-        #              # other value (or no value) means no border will be displayed
+      - layout: top-left        
         title: Self-Balancing Bike
         link: https://youtu.be/xUFVXe3pzGw?t=79
         link_text: Video
-        quote: >
-          Short overview of the project (optional)
+        #quote: >
+        #  
         description: | # this will include new lines to allow paragraphs
           I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.   
-
-   #- title: Project In [BARAM](https://cafe.naver.com/roboticsbaram)
-   #  layout: list # Type of content section (list/text)
-   #  content:
-     
-   #   - layout: top
-   #     title: Self-Balancing Bike
-   #     # link: https://youtu.be/xUFVXe3pzGw?t=79
-   #     description: | # this will include new lines to allow paragraphs
-   #       I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.
-
-             
           
   - title: Publications
     layout: text
