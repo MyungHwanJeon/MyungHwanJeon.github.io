@@ -148,11 +148,12 @@ content:
           
           <p>          
           <div calss=pull-left>
-            <a href="https://youtu.be/xUFVXe3pzGw?t=79"><img src="images/me.JPG" width="49%" alt="IMAGE ALT TEXT"></a>
+            ![alt text](images/me.JPG "Logo Title Text 1")
           </div>          
             I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.          
           </p>                
                   
+          # <a href="https://youtu.be/xUFVXe3pzGw?t=79"><img src="images/me.JPG" width="49%" alt="IMAGE ALT TEXT"></a>                  
           
   - title: Publications
     layout: text
