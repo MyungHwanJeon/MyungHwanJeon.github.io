@@ -298,7 +298,8 @@ content:
     layout: text
     content: |
     
-      MIT License, Copyright (c) 2018 James Grant
+      MIT License, Copyright (c) 2018 James Grant.
+      <br/>
       This page is based on the [modern-resyme-theme](https://github.com/sproogen/modern-resume-theme).
 
 # Footer
