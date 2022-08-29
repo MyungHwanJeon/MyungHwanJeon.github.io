@@ -152,8 +152,8 @@ content:
             </div>
 
             <div class="col-sm-8 col-md-9 col-print-12">              
-              <h4> </h4>
-              <h4>I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.</h4>                                               
+              <h2> </h2>
+              <h2>I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.</h2>                                               
             </div>
           </div>
          
