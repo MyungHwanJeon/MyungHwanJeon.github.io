@@ -60,26 +60,6 @@ content:
     content: | # this will include new lines to allow paragraphs
       Robot Vision, 6D Object Pose Estimation, Robot Manipulation, Simultaneous Localization and Mapping(SLAM), Spatial AI
             
-  # - title: Projects # Title for the section
-  #  layout: list # Type of content section (list/text)
-  #  content:
-  #    - layout: left
-  #      border: weak  # Value of `weak` will display a weak border below this item. # Any 
-  #                    # other value (or no value) means no border will be displayed
-  #      title: Project name
-  #      link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #      link_text: Link Text
-  #      additional_links:
-  #        - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #          icon: fab fa-github
-  #          url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #        - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #          icon: fab fa-github
-  #          url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #      quote: >
-  #        Short overview of the project (optional)
-  #      description: | # this will include new lines to allow paragraphs
-  #        Description about the work on/with the project
   - title: Positions
     layout: list
     content:
@@ -157,21 +137,12 @@ content:
    - title: Project In [BARAM](https://cafe.naver.com/roboticsbaram)
      layout: list # Type of content section (list/text)
      content:
+     
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Self-Balancing Bike
         link: https://youtu.be/xUFVXe3pzGw?t=79
-        link_text: Link Text
-        #additional_links:
-        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #    icon: fab fa-github
-        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #    icon: fab fa-github
-        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: >
-        #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.
 
