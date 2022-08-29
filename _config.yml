@@ -144,14 +144,12 @@ content:
         link_text: Video
         #quote: >
         #  
-        description: | # this will include new lines to allow paragraphs
-        
-          <div class=pull-left>
-            <a href="https://youtu.be/xUFVXe3pzGw?t=79"><img src="images/me.JPG" width="49%" alt="IMAGE ALT TEXT"></a>
-          </div>
-          <div class=pull-right>
-            I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.   
-          </div>
+        description: | # this will include new lines to allow paragraphs        
+          
+          <div id=”middle”>
+           <a href="https://youtu.be/xUFVXe3pzGw?t=79"><img src="images/me.JPG" width="49%" alt="IMAGE ALT TEXT"></a>
+           <p>I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.   </p> 
+          </div>          
         
            
           
