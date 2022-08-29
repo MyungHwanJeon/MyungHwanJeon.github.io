@@ -125,6 +125,9 @@ content:
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> We proposed a novel 6D object pose estimation method introducing a rotational primitive.</p>
+              <ul>
+                <li><U><b>Myung-Hwan Jeon</b></U> and Ayoung Kim, "[PrimA6D: Rotational Primitive Reconstruction for Enhanced and Robust 6D Pose Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9123683)", in IEEE Robotics and Automation Letters, 2020. </li>
+              </ul>     
             </div>
           </div>    
           
@@ -145,6 +148,9 @@ content:
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> We present an ambiguity-aware 6D object pose estimation network, PrimA6D++, as a generic uncertainty prediction method.</p>
+              <ul>
+                <li><U><b>Myung-Hwan Jeon</b></U>, Jeongyun Kim and Ayoung Kim, "[Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9123683)", under review. </li>
+              </ul>    
             </div>
           </div>        
           
@@ -165,6 +171,9 @@ content:
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> We present an Stereo Thermal Dataset for Research in Odometry and Mapping.</p>
+              <ul>
+                <li>Seungsang Yun, Minwoo Jung, Jeongyun Kim, Sangwoo Jung, Younghun Cho, <U><b>Myung-Hwan Jeon</b></U>, Giseop Kim, and Ayoung Kim, "STheReO: Stereo Thermal Dataset for Research in Odometry and Mapping", Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022</li>
+              </ul>   
             </div>
           </div>           
               
