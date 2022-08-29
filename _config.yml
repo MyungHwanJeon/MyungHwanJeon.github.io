@@ -118,7 +118,7 @@ content:
         
           <div class="row clearfix">  
             <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-              <a href="https://youtu.be/xUFVXe3pzGw?t=79"><img src="images/me.JPG" width="50%" alt="IMAGE ALT TEXT"></a>      
+              <a href="https://youtu.be/xUFVXe3pzGw?t=79"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum.</p>
@@ -134,7 +134,7 @@ content:
         
           <div class="row clearfix">  
             <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-              <a href="https://www.youtube.com/watch?v=zkZKcts7cQ4"><img src="images/me.JPG" width="50%" alt="IMAGE ALT TEXT"></a>      
+              <a href="https://www.youtube.com/watch?v=zkZKcts7cQ4"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> We developed a delta robot of parallel robots for object detection with robot vision on the conveyor belt. <br/> </p>              
@@ -153,7 +153,7 @@ content:
         
           <div class="row clearfix">  
             <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-              <a href="https://www.youtube.com/watch?v=IBtf0JAw3jA"><img src="images/me.JPG" width="50%" alt="IMAGE ALT TEXT"></a>      
+              <a href="https://www.youtube.com/watch?v=IBtf0JAw3jA"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> We developed a Human-Robot Interaction (HRI) system for a robot manipulator called "helper". <br/> </p>              
@@ -173,7 +173,7 @@ content:
         
           <div class="row clearfix">  
             <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-              <a href="https://www.youtube.com/watch?v=tfgsq2MSX-A"><img src="images/me.JPG" width="50%" alt="IMAGE ALT TEXT"></a>      
+              <a href="https://www.youtube.com/watch?v=tfgsq2MSX-A"><img src="images/me.JPG" width="75%" alt="IMAGE ALT TEXT"></a>      
             </div>
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> <br/> We developed a mobile braille device and a braille keyboard for smartphone. We tried to help the life of the visually impaired. <br/> </p>              
