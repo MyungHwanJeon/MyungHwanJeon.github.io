@@ -105,6 +105,68 @@ content:
         description: | # this will include new lines to allow paragraphs
           <br/> I received a B.S. degree in a division of Robotics at Kwangwoon university. Also, I conducted various robotics-related projects in "[BARAM](https://cafe.naver.com/roboticsbaram)", an academic club.
               
+  - title: Projects
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-left        
+        title: PrimA6D
+        caption: 2020
+        link: https://www.youtube.com/watch?v=HbNmsmTLRmk
+        link_text: Video
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/rpmsnu/PrimA6D
+        description: | # this will include new lines to allow paragraphs        
+        
+          <div class="row clearfix">  
+            <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+              <a href="https://www.youtube.com/watch?v=HbNmsmTLRmk"><img src="images/prima6d.png" width="75%" alt="IMAGE ALT TEXT"></a>      
+            </div>
+            <div class="col-sm-8 col-md-9 col-print-12">                            
+              <p> <br/> We proposed a novel 6D object pose estimation method introducing a rotational primitive.</p>
+            </div>
+          </div>    
+          
+      - layout: top-left        
+        title: PrimA6D++
+        caption: 2022
+        link: https://www.youtube.com/watch?v=akbI61jUJgY
+        link_text: Video
+        additional_links:
+          - title: Github page for project
+            icon: fab fa-github
+            url: https://github.com/rpmsnu/PrimA6D
+        description: | # this will include new lines to allow paragraphs        
+        
+          <div class="row clearfix">  
+            <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+              <a href="https://www.youtube.com/watch?v=HbNmsmTLRmk"><img src="images/prima6dpp.png" width="75%" alt="IMAGE ALT TEXT"></a>      
+            </div>
+            <div class="col-sm-8 col-md-9 col-print-12">                            
+              <p> <br/> We present an ambiguity-aware 6D object pose estimation network, PrimA6D++, as a generic uncertainty prediction method.</p>
+            </div>
+          </div>        
+          
+      - layout: top-left        
+        title: STheReO Dataset
+        caption: 2022
+        link: https://www.youtube.com/watch?v=U81_vpHymAA
+        link_text: Video
+        additional_links:
+          - title: Project page
+            icon: fab fa-dribbble-square
+            url: https://sites.google.com/view/rpmsthereo/
+        description: | # this will include new lines to allow paragraphs        
+        
+          <div class="row clearfix">  
+            <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+              <a href="https://www.youtube.com/watch?v=U81_vpHymAA"><img src="images/sthereo.png" width="75%" alt="IMAGE ALT TEXT"></a>      
+            </div>
+            <div class="col-sm-8 col-md-9 col-print-12">                            
+              <p> <br/> We present an Stereo Thermal Dataset for Research in Odometry and Mapping.</p>
+            </div>
+          </div>           
               
   - title: Projects in BARAM, a academic club
     layout: list # Type of content section (list/text)
