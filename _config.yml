@@ -145,17 +145,17 @@ content:
         #quote: >
         #  
         image: images/me.JPG
-        connment: I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.
+        comment: I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.
         description: | # this will include new lines to allow paragraphs        
-          
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <span class="profile-img" style="background-image: url({{image | relative_url }})"></span>
+          <div class="row clearfix">  
+            <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+              <span class="profile-img" style="background-image: url({{image | relative_url }})"></span>
+            </div>
+
+            <div class="col-sm-8 col-md-9 col-print-12">
+              {{ comment| strip | markdownify }}
+            </div>
           </div>
-          
-          <div class="col-sm-8 col-md-9 col-print-12">
-            {{ connment| strip | markdownify }}
-          </div>
-        
          
                                                
           
