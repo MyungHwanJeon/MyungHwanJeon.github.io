@@ -127,10 +127,13 @@ content:
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> We proposed a novel 6D object pose estimation method introducing a rotational primitive.</p>
               <ul>
-                <li><U><b>Myung-Hwan Jeon</b></U> and Ayoung Kim, "[PrimA6D: Rotational Primitive Reconstruction for Enhanced and Robust 6D Pose Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9123683)", in IEEE Robotics and Automation Letters, 2020. </li>
+                <li><U><b>Myung-Hwan Jeon</b></U> and Ayoung Kim, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9123683">"PrimA6D: Rotational Primitive Reconstruction for Enhanced and Robust 6D Pose Estimation"</a>, in IEEE Robotics and Automation Letters, 2020. </li>
               </ul>     
             </div>
           </div>    
+          
+                    
+          
           
       - layout: top-left        
         title: PrimA6D++
