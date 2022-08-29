@@ -179,7 +179,7 @@ content:
             </div>
           </div>                                                   
               
-  - title: Projects in BARAM, a academic club
+  - title: Projects in <a href="https://cafe.naver.com/roboticsbaram">BARAM</a>, a academic club
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left        
