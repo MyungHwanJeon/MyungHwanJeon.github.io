@@ -146,7 +146,14 @@ content:
         #  
         description: | # this will include new lines to allow paragraphs
         
-          <a href="https://youtu.be/xUFVXe3pzGw?t=79"><img src="images/me.JPG" width="49%" alt="IMAGE ALT TEXT"></a> I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.   
+          <div class=pull-left>
+            <a href="https://youtu.be/xUFVXe3pzGw?t=79"><img src="images/me.JPG" width="49%" alt="IMAGE ALT TEXT"></a>
+          </div>
+          <div class=pull-right>
+            I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.   
+          </div>
+        
+           
           
   - title: Publications
     layout: text
