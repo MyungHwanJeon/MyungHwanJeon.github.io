@@ -147,19 +147,14 @@ content:
         description: | # this will include new lines to allow paragraphs        
           
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <span class="profile-img" style="background-image: images/me.JPG"></span>
+            <span class="profile-img" style="background-image: https://github.com/MyungHwanJeon/MyungHwanJeon.github.io/images/me.JPG"></span>
           </div>
         
-          <div class="{{ 'col-xs-12 ' }}">
-            aaaaaaaaaaaa
+          <div class="{{ 'ol-sm-8 col-md-9 col-print-12' }}">
+            I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.          
+
           </div>
-          
-          #<p>          
-          #<div calss=pull-left>
-          #  https://github.com/MyungHwanJeon/MyungHwanJeon.github.io/images/me.JPG            
-          #</div>          
-          #  I developed a self-balancing bike exploiting the concept of a reaction wheel pendulum. From hardware design to firmware design, I did everything myself.          
-          #</p>                                                
+                                               
           
   - title: Publications
     layout: text
