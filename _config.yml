@@ -199,6 +199,25 @@ content:
           </div>
           
       - layout: top-left        
+        title: Intelligent Model Car
+        caption: 2013
+        link: https://youtu.be/aAwuEpfIuqc
+        link_text: Video
+        description: | # this will include new lines to allow paragraphs        
+        
+          <div class="row clearfix">  
+            <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+              <a href="https://youtu.be/aAwuEpfIuqc"><img src="images/intel_car.png" width="100%" alt="IMAGE ALT TEXT"></a>      
+            </div>
+            <div class="col-sm-8 col-md-9 col-print-12">                            
+              <p> <br/> We developed a intelligent model car based on the line-tracer.</p>
+              <ul>
+                <li>"<b>BMW Special Prize</b>", 2013 HanYang Univ. Intelligent Model Car Racing.</li>                
+              </ul>
+            </div>
+          </div>          
+          
+      - layout: top-left        
         title: Delta Robot Application
         caption: 2013
         link: https://www.youtube.com/watch?v=zkZKcts7cQ4
