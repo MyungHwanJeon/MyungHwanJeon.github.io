@@ -316,12 +316,15 @@ content:
     layout: text
     content: |
      
-      - Reviewer - IEEE International Conference on Ubiquitous Robots (UR, 2020)
-      - Reviewer - IEEE International Conference on Robotics and Automation (ICRA, 2021)
-      - Reviewer - IEEE International Conference on Robotics and Automation (ICRA, 2022) 
-      - Reviewer - IEEE International Conference on Intelligent Robots and Systems (IROS, 2022)    
-      - Reviewer - IEEE Robotics and Automation Letters (RA-L, 2022)      
-      - Reviewer - IEEE International Conference on Robotics and Automation (ICRA, 2023)       
+      
+      - Reviewer 
+      <ul>
+                <li>"<b>Encouragement Prize</b>", 18th Korea Intelligent Robot Contest.</li>   
+                <li>"<b>Special Prize</b>", 18th Korea Intelligent Robot Contest.</li>
+                <li>"<b>Excellence Prize</b>", 12th Kwangwoon IT Exhibition.</li>
+                <li>"<b>Excellence Prize</b>", 5th Kwangwoon software programming contest.</li>
+                <li>"<b>Top Award</b>", 2017 Nowon-gu, Seoul Capstone Design Contest.</li>
+              </ul>  
 
   - title: Acknowledgement
     layout: text
