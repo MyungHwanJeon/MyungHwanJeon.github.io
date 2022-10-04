@@ -316,7 +316,7 @@ content:
     layout: text
     content: |
      
-            <ol>
+            <ul>
               <li>Reviewer</li>
               <ul>
                 <li>IEEE International Conference on Ubiquitous Robots (UR, 2020)</li>   
@@ -326,7 +326,7 @@ content:
                 <li>IEEE Robotics and Automation Letters (RA-L, 2022)</li>
                 <li>IEEE International Conference on Robotics and Automation (ICRA, 2023) </li>
               </ul>  
-            </ol>
+            </ul>
 
   - title: Acknowledgement
     layout: text
