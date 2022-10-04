@@ -316,15 +316,17 @@ content:
     layout: text
     content: |
      
-      
-              <p> <br/> Reviewer <br/> </p>              
+            <ol>
+              <li>Reviewer</li>
               <ul>
-                <li>"<b>Encouragement Prize</b>", 18th Korea Intelligent Robot Contest.</li>   
-                <li>"<b>Special Prize</b>", 18th Korea Intelligent Robot Contest.</li>
-                <li>"<b>Excellence Prize</b>", 12th Kwangwoon IT Exhibition.</li>
-                <li>"<b>Excellence Prize</b>", 5th Kwangwoon software programming contest.</li>
-                <li>"<b>Top Award</b>", 2017 Nowon-gu, Seoul Capstone Design Contest.</li>
+                <li>IEEE International Conference on Ubiquitous Robots (UR, 2020)</li>   
+                <li>IEEE International Conference on Robotics and Automation (ICRA, 2021)</li>
+                <li>IEEE International Conference on Robotics and Automation (ICRA, 2022)</li>
+                <li>IEEE International Conference on Intelligent Robots and Systems (IROS, 2022)</li>
+                <li>IEEE Robotics and Automation Letters (RA-L, 2022)</li>
+                <li>IEEE International Conference on Robotics and Automation (ICRA, 2023) </li>
               </ul>  
+            </ol>
 
   - title: Acknowledgement
     layout: text
