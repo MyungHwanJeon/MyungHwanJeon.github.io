@@ -127,7 +127,7 @@ content:
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> We proposed a novel 6D object pose estimation method introducing a rotational primitive.</p>
               <ul>
-                <li><U><b>Myung-Hwan Jeon</b></U> and Ayoung Kim, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9123683">"PrimA6D: Rotational Primitive Reconstruction for Enhanced and Robust 6D Pose Estimation"</a>, in IEEE Robotics and Automation Letters, 2020. </li>
+                <li><U><b>Myung-Hwan Jeon</b></U> and Ayoung Kim, <a href="https://arxiv.org/abs/2006.07789">"PrimA6D: Rotational Primitive Reconstruction for Enhanced and Robust 6D Pose Estimation"</a>, in IEEE Robotics and Automation Letters, 2020. </li>
               </ul>     
             </div>
           </div>    
@@ -150,7 +150,7 @@ content:
             <div class="col-sm-8 col-md-9 col-print-12">                            
               <p> We presented an ambiguity-aware 6D object pose estimation network, PrimA6D++, as a generic uncertainty prediction method.</p>
               <ul>
-                <li><U><b>Myung-Hwan Jeon</b></U>, Jeongyun Kim and Ayoung Kim, "Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation", under review. </li>
+                <li><U><b>Myung-Hwan Jeon</b></U>, Jeongyun Kim and Ayoung Kim, <a href="https://rpm.snu.ac.kr/publications/mjeon-2022-ral.pdf">"Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation",</a>, in IEEE Robotics and Automation Letters, 2022. </li>
               </ul>    
             </div>
           </div>        
@@ -291,6 +291,8 @@ content:
   - title: Publications
     layout: text
     content: |
+     
+      - **<U>Myung-Hwan Jeon</U>**, Jeongyun Kim, Jee-Hwan Ryu, and Ayoung Kim, "[Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation](https://rpm.snu.ac.kr/publications/mjeon-2022-ral.pdf)", in IEEE Robotics and Automation Letters, 2022.
      
       - Eon-ho Lee, Byungjae Park,  **<U>Myung-Hwan Jeon</U>**, Hyesu Jang, Ayoung Kim and Sejin Lee, "[Data augmentation using image translation for underwater sonar image segmentation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272602)", in PLoS ONE 17(8): e0272602. https://doi.org/10.1371/journal.pone.0272602
      
