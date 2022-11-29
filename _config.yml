@@ -57,7 +57,7 @@ content:
         caption: Sep. 2022 - Dec. 2022   
         link: http://www.snu.ac.kr/
         description: | # this will include new lines to allow paragraphs
-          <br/> I executed an assistant in a lecture, AIME: Advanced Topics in Mechanical Engineering 4.        
+          <br/> I served as an teaching assistant in a lecture, AIME: Advanced Topics in Mechanical Engineering 4.        
     
       - layout: top-left
         title: KAIST
@@ -65,7 +65,7 @@ content:
         caption: Sep. 2019 - Dec. 2019   
         link: http://www.kaist.ac.kr/
         description: | # this will include new lines to allow paragraphs
-          <br/> I executed an assistant in a lecture, CE544: Mechanical Design of Civil Robot.    
+          <br/> I served as an teaching assistant in a lecture, CE544: Mechanical Design of Civil Robot.    
     
       - layout: top-left
         title: CHIC
