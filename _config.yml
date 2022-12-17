@@ -39,7 +39,7 @@ googlescholar_username: ivOqySYAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Myung-Hwan Jeon and I'm a Ph.D. candidate of [Robotic Progrom](https://rp.kaist.ac.kr) in [KAIST](https://www.kaist.ac.kr). Due to personal reasons, I am currently a member of the [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr), advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).
+  Hi, my name is Myung-Hwan Jeon.   
   
 content:
   - title: Field of Interest
@@ -50,6 +50,14 @@ content:
   - title: Positions
     layout: list
     content:
+    
+      - layout: top-left
+        title: SNU 
+        sub_title: Post-Doctoral Research Fellow
+        caption: Jan. 2023 - 
+        link: http://rpm.snu.ac.kr/
+        description: | # this will include new lines to allow paragraphs
+          <br/> A post-doctoral research fellow in [RPM robotics Lab](https://rpm.snu.ac.kr) at [SNU](https://www.snu.ac.kr), advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).  
     
       - layout: top-left
         title: SNU 
@@ -80,14 +88,14 @@ content:
     layout: list
     content:
     
-      # - layout: top-left
-      #  title: KAIST
-      #  sub_title: Ph.D. in Robotic Program
-      #  caption: Mar. 2020 - Feb. 2023       
-      #  quote: >
-      #    Korea Advanced Institute of Science and Technology(KAIST) was estblished in 1971 and is located in Daejeon, Korea.                    
-      #  description: | # this will include new lines to allow paragraphs
-      #    Description of qualification        
+      - layout: top-left
+       title: KAIST
+       sub_title: Ph.D. in Robotic Program
+       caption: Mar. 2020 - Feb. 2023       
+       link: http://www.kaist.ac.kr/               
+        description: | # this will include new lines to allow paragraphs
+          <br/> I received a Ph.D. degree in robotic program in KAIST. I was a member of the IRAP lab (currently moved to the [RPM robotics Lab](https://rpm.snu.ac.kr), [SNU](https://www.snu.ac.kr)), and advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).   
+
     
       - layout: top-left
         title: KAIST
