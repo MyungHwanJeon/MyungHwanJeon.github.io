@@ -39,7 +39,7 @@ googlescholar_username: ivOqySYAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Myung-Hwan Jeon. I'm currently working as a post-doctoral research fellow in [RPM robotics Lab](https://rpm.snu.ac.kr) at [SNU](https://www.snu.ac.kr), advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).
+  Hi, my name is Myung-Hwan Jeon. I'm currently working as a postdoctoral research fellow in [RPM robotics Lab](https://rpm.snu.ac.kr) at [SNU](https://www.snu.ac.kr), advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).
   
 content:
   - title: Field of Interest
@@ -53,11 +53,11 @@ content:
     
       - layout: top-left
         title: SNU 
-        sub_title: Post-Doctoral Research Fellow
+        sub_title: Postdoctoral Research Fellow
         caption: Jan. 2023 - 
         link: http://rpm.snu.ac.kr/
         description: | # this will include new lines to allow paragraphs
-          <br/> A post-doctoral research fellow in [RPM robotics Lab](https://rpm.snu.ac.kr) at [SNU](https://www.snu.ac.kr), advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).  
+          <br/> A postdoctoral research fellow in [RPM robotics Lab](https://rpm.snu.ac.kr) at [SNU](https://www.snu.ac.kr), advised by [Prof. Ayoung Kim](https://ayoungk.github.io/).  
     
       - layout: top-left
         title: SNU 
