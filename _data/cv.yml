@@ -23,7 +23,7 @@
   contents:
     - title: Ph.D.
       institution: Korea Advanced Institute of Science and Technology (KAIST) , Daejeon, South Korea
-      year: 2023.02
+      year: 2023.02.
       description:
         - Robotics Program
         - Advised by Dr. Ayoung Kim and Dr. Jee-Hwan Ryu
@@ -32,7 +32,7 @@
             - Ambiguity-Aware Multi-Object Pose Optimization toward Visually-Assisted Robot Manipulation
     - title: M.S.
       institution: Korea Advanced Institute of Science and Technology (KAIST) , Daejeon, South Korea
-      year: 2020.02
+      year: 2020.02.
       description:
         - Robotics Program
         - Advised by Dr. Ayoung Kim 
@@ -41,7 +41,7 @@
             - Learning-based object detection and 6D pose estimation toward vision-based underwater robotic grasping
     - title: B.S.
       institution: Kwangwoon University, Seoul, South Korea
-      year: 2017.02
+      year: 2017.02.
       description:
         - Information Control in Division of Robotics
         - Advised by Dr. Ick Choy
@@ -65,25 +65,25 @@
   type: time_table
   contents:
     - title: Spolight Talk
-      year: 2023.08
+      year: 2023.08.
       description: 
         - ICCV Workshop for Transparent & Reflective objects In the wild Challenges (TRICKY)
         - Large-Scale Multispectral Dataset for Transparent Object
 
     - title: Invited Talk
-      year: 2023.07
+      year: 2023.07.
       description: 
         - Hyundai Motor Company
         - Ambiguity-Aware 6D Object Pose Optimization for the Robot Manipulation
 
     - title: Poster Presentation
-      year: 2022.10
+      year: 2022.10.
       description: 
         - Late-Breaking Result in IROS
         - Measuring Prediction Reliability on 6D Object Pose Estimation
 
     - title: Spolight talk
-      year: 2018.10
+      year: 2018.10.
       description: 
         - Underwater Workshop in IROS
         - Deep Learning based Object Detection and Pose Estimation
@@ -91,21 +91,21 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+    - year: 2023.
       items: 
         - <b>Best Paper Award</b>, Korea Robot Society (KROS).
-    - year: 2016
+    - year: 2016.
       items: 
         - <b>Top Award</b>, Nowon-gu, Seoul Capstone Design Contest.
         - <b>Excellence Prize</b>, 5th Kwangwoon Software Programming Contest.
         - <b>Excellence Prize</b>, 12th Kwangwoon IT Exhibition.
         - <b>Special Prize</b>, 18th Korea Intelligent Robot Contest.
         - <b>Encouragement Prize</b>, 18th Korea Intelligent Robot Contest.
-    - year: 2015
+    - year: 2015.
       items: 
         - <b>Top Award</b>, Nowon-gu, Seoul Capstone Design Contest.
         - <b>Top Award</b>, 17th Korea Intelligent Robot Contest.
-    - year: 2013
+    - year: 2013.
       items: 
         - <b>Chairman’s Award</b>, Texas Instrument (TI) Innovation Challenge (Korean MCU Design Contest).
         - <b>BMW Special Prize</b>, Hanyang University Intelligent Model Car Racing.
