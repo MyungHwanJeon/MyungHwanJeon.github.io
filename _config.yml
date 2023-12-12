@@ -267,6 +267,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
+gems: ['jekyll/scholar']
 scholar:
 
   last_name: [Jeon]
