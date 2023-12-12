@@ -1,0 +1,121 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Myung-Hwan Jeon
+    - name: Skills
+      value: C/C++, Python, MATLAB, PyTorch, TensorFlow, Solidworks
+    - name: Languages
+      value: Korean, English
+
+- title: Field of Interest
+  type: time_table
+  contents:
+    - title: 
+      description: 
+        - Robot Vision, 6D Object Pose Estimation
+        - Visual simultaneous localization and mapping (SLAM), 6D Localization
+
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D.
+      institution: Korea Advanced Institute of Science and Technology (KAIST) , Daejeon, South Korea
+      year: 2023.02
+      description:
+        - Robotics Program
+        - Advised by Dr. Ayoung Kim and Dr. Jee-Hwan Ryu
+        - title: Dissertation
+          contents:
+            - Ambiguity-Aware Multi-Object Pose Optimization toward Visually-Assisted Robot Manipulation
+    - title: M.S.
+      institution: Korea Advanced Institute of Science and Technology (KAIST) , Daejeon, South Korea
+      year: 2020.02
+      description:
+        - Robotics Program
+        - Advised by Dr. Ayoung Kim 
+        - title: Dissertation
+          contents:
+            - Learning-based object detection and 6D pose estimation toward vision-based underwater robotic grasping
+    - title: B.S.
+      institution: Kwangwoon University, Seoul, South Korea
+      year: 2017.02
+      description:
+        - Information Control in Division of Robotics
+        - Advised by Dr. Ick Choy
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Post-Doctoral Research Fellow
+      institution: Dept. of Mechanical Engineering, Seoul National University
+      year: 2023 - Now
+      description:
+        - Leading a research project on transparent object recognition for the robot manipulation.
+        - Leading a research project on visual perception for the autonomous driving.
+    - title: Researcher
+      institution: Center of Human-centered Interaction for Coexistence (CHIC), Seoul, South Korea
+      year: 2017-2018
+      description:
+        - Worked for develoment of contact-based hand interaction technology
+
+- title: Presentations
+  type: time_table
+  contents:
+    - title: Spolight Talk
+      year: 2023.08
+      description: 
+        - ICCV Workshop for Transparent & Reflective objects In the wild Challenges (TRICKY)
+        - Large-Scale Multispectral Dataset for Transparent Object
+
+    - title: Invited Talk
+      year: 2023.07
+      description: 
+        - Hyundai Motor Company
+        - Ambiguity-Aware 6D Object Pose Optimization for the Robot Manipulation
+
+    - title: Poster Presentation
+      year: 2022.10
+      description: 
+        - Late-Breaking Result in IROS
+        - Measuring Prediction Reliability on 6D Object Pose Estimation
+
+    - title: Spolight talk
+      year: 2018.10
+      description: 
+        - Underwater Workshop in IROS
+        - Deep Learning based Object Detection and Pose Estimation
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - <b>Best Paper Award</b>, Korea Robot Society (KROS).
+    - year: 2016
+      items: 
+        - <b>Top Award</b>, Nowon-gu, Seoul Capstone Design Contest.
+        - <b>Excellence Prize</b>, 5th Kwangwoon Software Programming Contest.
+        - <b>Excellence Prize</b>, 12th Kwangwoon IT Exhibition.
+        - <b>Special Prize</b>, 18th Korea Intelligent Robot Contest.
+        - <b>Encouragement Prize</b>, 18th Korea Intelligent Robot Contest.
+    - year: 2015
+      items: 
+        - <b>Top Award</b>, Nowon-gu, Seoul Capstone Design Contest.
+        - <b>Top Award</b>, 17th Korea Intelligent Robot Contest.
+    - year: 2013
+      items: 
+        - <b>Chairman’s Award</b>, Texas Instrument (TI) Innovation Challenge (Korean MCU Design Contest).
+        - <b>BMW Special Prize</b>, Hanyang University Intelligent Model Car Racing.
+
+- title: Services
+  type: time_table
+  contents:
+    - title: Reviewer
+      description: 
+        - IEEE International Conference on Ubiquitous Robots (UR)
+        - IEEE International Conference on Robotics and Automation (ICRA)
+        - IEEE Robotics and Automation Letters (RA-L)
+        - Intelligent Service Robotics (ISR)
