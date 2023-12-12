@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: <b>Postdoctoral Researcher @ <a href="https://rpm.snu.ac.kr">RPM robotics Lab</a> at <a href="https://www.snu.ac.kr">SNU</a></b> 
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a post-doctoral research fellow in [RPM robotics Lab](https://rpm.snu.ac.kr) at [SNU](https://www.snu.ac.kr), advised by [Prof. Ayoung Kim](https://ayoungk.github.io/). I'm focused on the research for spatial intelligence for mobile manipulation in human environments. Especially targeting efficient robot manipulation in human environments, I'm trying to solve spatial perception with various vision sensors. I'm also working on other related research projects for autonomous driving.
+I'm a postdoctoral researcher in [RPM robotics Lab](https://rpm.snu.ac.kr) at [SNU](https://www.snu.ac.kr), advised by [Prof. Ayoung Kim](https://ayoungk.github.io/). I'm focused on the research for spatial intelligence for mobile manipulation in human environments. Especially targeting efficient robot manipulation in human environments, I'm trying to solve spatial perception with various vision sensors. I'm also working on other related research projects for autonomous driving.
 
 Prior to this, I was a Ph.D. student in the [Robotics Program](https://robots.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/). My research topic during my Ph.D. had been focused on the vision-based 6D object pose estimation toward efficient robot manipulation, advised by Prof. Ayoung Kim. I also executed a lot of research projects related to the SLAM in the real-world, dealing with LiDAR-based methods, heterogeneous sensor-fusion, pose-graph optimization, etc.
 
