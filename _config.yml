@@ -8,7 +8,7 @@ middle_name:
 last_name: Jeon
 email: myunghwan.jeon.offl@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-footer_text: Powered by Jekyll with al-folio theme. Hosted by GitHub Pages.
+footer_text:  # Powered by Jekyll with al-folio theme. Hosted by GitHub Pages.
 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
