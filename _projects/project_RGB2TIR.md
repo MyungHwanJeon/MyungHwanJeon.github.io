@@ -3,7 +3,7 @@ layout: distill
 title: RGB2TIR Translation
 description: Edge-guided Multi-domain RGB-to-TIR image Translation for Training Vision Tasks with Challenging Labels
 img: assets/img/RGB2TIR.png
-importance: 1
+importance: 2
 date: 2023-05-31
 category: Projects
 
