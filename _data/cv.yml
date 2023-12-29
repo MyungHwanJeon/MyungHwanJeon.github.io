@@ -59,7 +59,7 @@
       institution: Center of Human-centered Interaction for Coexistence (CHIC), Seoul, South Korea
       year: 2017-2018
       description:
-        - Worked for develoment of contact-based hand interaction technology
+        - Worked for development of contact-based hand interaction technology
 
 - title: Presentations
   type: time_table
@@ -117,5 +117,6 @@
       description: 
         - IEEE International Conference on Ubiquitous Robots (UR)
         - IEEE International Conference on Robotics and Automation (ICRA)
+        - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
         - IEEE Robotics and Automation Letters (RA-L)
         - Intelligent Service Robotics (ISR)
