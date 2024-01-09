@@ -4,7 +4,7 @@ title: LodeStar
 description: Maritime Radar Descriptor for Semi-Direct Radar Odometry
 img: assets/img/lodestar.png
 importance: 1
-date: 2023-12-25
+date: 2024-01-04
 category: Projects
 
 authors:
@@ -34,7 +34,7 @@ authors:
     </a>
   </div>
   <div class="col-10">
-    <a target="_blank" href="" class="button button--sacnite button--round-l">
+    <a target="_blank" href="https://ieeexplore.ieee.org/document/10380692" class="button button--sacnite button--round-l">
       <i class="fas fa-file-pdf fa-3x" title="pdf link"></i>
     </a>
   </div>
