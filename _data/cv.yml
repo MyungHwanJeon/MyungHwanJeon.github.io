@@ -13,8 +13,9 @@
   contents:
     - title: 
       description: 
-        - Robot Vision, 6D Object Pose Estimation
-        - Visual simultaneous localization and mapping (SLAM), 6D Localization
+        - Robot Vision
+        - 6D Object Pose Estimation
+        - Visual Simultaneous Localization And Mapping (SLAM)
 
 
 
