@@ -65,10 +65,16 @@
 - title: Presentations
   type: time_table
   contents:
+    - title: Invited Talk
+      year: 2024.02.
+      description: 
+        - Flagship Conferences Session in the 19th Korea Robitics Society Annual Conference (KRoC 2024)
+        - Ambiguity-Aware 6D Object Pose Optimization for the Robot Manipulation
+
     - title: Spolight Talk
       year: 2023.08.
       description: 
-        - ICCV Workshop for Transparent & Reflective objects In the wild Challenges (TRICKY)
+        - ICCV Workshop for Transparent & Reflective objects in the wild Challenges (TRICKY)
         - Large-Scale Multispectral Dataset for Transparent Object
 
     - title: Invited Talk
