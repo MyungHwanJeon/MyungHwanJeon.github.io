@@ -276,7 +276,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers_inter_journal.bib
+  bibliography: papers_selected.bib
   bibliography_international_journals: papers_inter_journal.bib
   bibliography_international_conferences: papers_inter_conference.bib
   bibliography_domestic_journals: papers_domes_journals.bib
