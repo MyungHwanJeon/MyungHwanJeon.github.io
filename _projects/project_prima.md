@@ -3,7 +3,7 @@ layout: distill
 title: PrimA6D
 description: Rotational Primitive Reconstruction for Enhanced and Robust 6D Pose Estimation
 img: assets/img/prima6d.png
-importance: 1
+importance: 5
 date: 2020-06-23
 category: Projects
 

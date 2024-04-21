@@ -3,7 +3,7 @@ layout: distill
 title: LodeStar
 description: Maritime Radar Descriptor for Semi-Direct Radar Odometry
 img: assets/img/lodestar.png
-importance: 1
+importance: 2
 date: 2024-01-04
 category: Projects
 

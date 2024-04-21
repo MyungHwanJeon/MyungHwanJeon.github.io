@@ -3,7 +3,7 @@ layout: distill
 title: Dark Synthetic Vision
 description: Lightweight Active Vision to Navigate in the Dark
 img: assets/img/dark.png
-importance: 1
+importance: 6
 date: 2020-10-30
 category: Projects
 
