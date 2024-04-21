@@ -3,7 +3,7 @@ layout: page
 title: Intelligent Model Car
 description: 2013
 img: assets/img/intel_car.png
-importance: 5
+importance: 1
 category: Projects in <a href="https://cafe.naver.com/roboticsbaram">BARAM</a> as a academic club
 ---
 

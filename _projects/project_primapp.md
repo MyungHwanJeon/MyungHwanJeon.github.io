@@ -3,7 +3,7 @@ layout: distill
 title: PrimA6D++
 description: Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation
 img: assets/img/prima6dpp.png
-importance: 4
+importance: 1
 date: 2022-11-17
 category: Projects
 
@@ -16,7 +16,7 @@ authors:
     url: "https://scholar.google.co.kr/citations?user=vW2JtFAAAAAJ"
     affiliations: 
       name: SNU, South Korea
-  - name:  Jee-Hwan Ryu
+  - name: Jee-Hwan Ryu
     url: "https://scholar.google.com/citations?hl=en&user=zLOoWCUAAAAJ"
     affiliations: 
       name: KAIST, South Korea

@@ -4,7 +4,7 @@ title: DiscoCal
 description: Unbiased Estimator for Distorted Conics in Camera Calibration
 img: assets/img/discocal.png
 importance: 1
-date: 2024-06-17
+date: 2024-04-10
 category: Projects
 
 authors:
@@ -13,7 +13,7 @@ authors:
     affiliations: 
       name: SNU, South Korea
   - name: Jaeho Shin
-    url: "https://scholar.google.com/citations?user=jwq-rwMAAAAJ&hl=ko"
+    url: "https://scholar.google.com/citations?user=jwq-rwMAAAAJ&hl=ko/"
     affiliations: 
       name: SNU, South Korea      
   - name:  Myung-Hwan Jeon
@@ -21,7 +21,7 @@ authors:
     affiliations: 
       name: SNU, South Korea
   - name: Jongwoo Lim
-    url: "https://sites.google.com/view/snu-rvlab/people/jwlim?authuser=0"
+    url: "https://sites.google.com/view/snu-rvlab/people/jwlim?authuser=0/"
     affiliations: 
       name: SNU, South Korea
   - name: Ayoung Kim
@@ -47,6 +47,7 @@ authors:
 ## Intro
 
 In the project, points and conics have been major features for camera geometric calibration. Although conics are more informative features than points, the loss of the conic property under distortion has critically limited the utility of conic features in camera calibration. Many existing approaches addressed conic-based calibration by ignoring distortion or introducing 3D spherical targets to circumvent this limitation. In this paper, we present a novel formulation for conic-based calibration using moments. Our derivation is based on the mathematical finding that the first moment can be estimated without bias even under distortion. This allows us to track moment changes during projection and distortion, ensuring the preservation of the first moment of the distorted conic. With an unbiased estimator, the circular patterns can be accurately detected at the sub-pixel level and can now be fully exploited for an entire calibration pipeline, resulting in significantly improved calibration.
+
 ## Video 
 
 <div align="center">

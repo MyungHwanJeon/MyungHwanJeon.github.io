@@ -3,7 +3,7 @@ layout: page
 title: Mini Drone Control & Playing Xylophone
 description: 2015
 img: assets/img/drone.png
-importance: 4
+importance: 1
 category: Projects in <a href="https://cafe.naver.com/roboticsbaram">BARAM</a> as a academic club
 ---
 

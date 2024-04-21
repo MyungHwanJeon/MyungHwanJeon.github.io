@@ -3,7 +3,7 @@ layout: page
 title: Self-Balancing Bike
 description: 2013
 img: assets/img/bike.png
-importance: 6
+importance: 1
 category: Projects in <a href="https://cafe.naver.com/roboticsbaram">BARAM</a> as a academic club
 ---
 
