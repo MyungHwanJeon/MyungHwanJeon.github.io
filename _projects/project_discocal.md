@@ -3,7 +3,7 @@ layout: distill
 title: DiscoCal
 description: Unbiased Estimator for Distorted Conics in Camera Calibration
 img: assets/img/discocal.png
-importance: 1
+importance: 2
 date: 2024-04-10
 category: Projects
 

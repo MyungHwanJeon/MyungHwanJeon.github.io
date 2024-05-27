@@ -3,7 +3,7 @@ layout: distill
 title: PrimA6D++
 description: Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation
 img: assets/img/prima6dpp.png
-importance: 4
+importance: 5
 date: 2022-11-17
 category: Projects
 
