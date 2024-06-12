@@ -66,6 +66,12 @@
   type: time_table
   contents:
     - title: Invited Talk
+      year: 2024.06.
+      description: 
+        - CUBOX
+        - Deep Learning + Graph SLAM for Robot Manipulation
+
+    - title: Invited Talk
       year: 2024.02.
       description: 
         - Flagship Conferences in KRoC
