@@ -6,8 +6,8 @@ subtitle: <b>Postdoctoral Researcher @ <a href="https://rpm.snu.ac.kr">RPM robot
 
 profile:
   align: right
-  image: main.jpg
-  image_circular: false # crops the image to make it circular
+  image: main2.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
 
 news: false  # includes a list of news items
