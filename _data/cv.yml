@@ -52,17 +52,17 @@
   contents:
     - title: Postdoctoral Researcher
       institution: Dept. of Electrical and Computer Engineering, University of Illinois Urbana-Champaign
-      year: 2024.09.-NOW
+      year: 2024.09-NOW
 
     - title: Postdoctoral Researcher
       institution: Dept. of Mechanical Engineering, Seoul National University
-      year: 2023.01.-2024.08.
+      year: 2023.01-2024.08
       description:
         - Leading a research project on transparent object recognition for the robot manipulation.
         - Leading a research project on visual perception for the autonomous driving.
     - title: Researcher
       institution: Center of Human-centered Interaction for Coexistence (CHIC), Seoul, South Korea
-      year: 2017.03.-2018.01.
+      year: 2017.03-2018.01
       description:
         - Worked for development of contact-based hand interaction technology
 
