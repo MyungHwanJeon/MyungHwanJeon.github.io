@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Postdoctoral Researcher @ <a href="https://publish.illinois.edu/kimlab2020/">Kinetic Intelligent Machine LAB</a> at <a href="https://illinois.edu/">UIUC</a></b> 
+subtitle: <b>Postdoctoral Researcher @ <a href="https://publish.illinois.edu/kimlab2020/">Kinetic Intelligent Machine LAB</a>, <a href="https://illinois.edu/">UIUC</a></b> 
 
 profile:
   align: right
