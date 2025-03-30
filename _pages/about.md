@@ -6,7 +6,7 @@ subtitle: <b>Postdoctoral Researcher @ <a href="https://publish.illinois.edu/kim
 
 profile:
   align: right
-  image: main1.jpg
+  image: main.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
