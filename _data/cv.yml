@@ -132,8 +132,9 @@
   contents:
     - title: Reviewer
       description: 
-        - IEEE International Conference on Ubiquitous Robots (UR)
+        - IEEE Robotics and Automation Letters (RA-L)
+        - IEEE Transactions on Robotics (T-RO)
         - IEEE International Conference on Robotics and Automation (ICRA)
         - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-        - IEEE Robotics and Automation Letters (RA-L)
         - Intelligent Service Robotics (ISR)
+        - IEEE International Conference on Ubiquitous Robots (UR)
