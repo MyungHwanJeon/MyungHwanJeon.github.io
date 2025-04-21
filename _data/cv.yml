@@ -27,7 +27,7 @@
       year: 2023.02.
       description:
         - Robotics Program
-        - Advised by Dr. Ayoung Kim and Dr. Jee-Hwan Ryu
+        - Advised by Prof. Ayoung Kim and Prof. Jee-Hwan Ryu
         - title: Dissertation
           contents:
             - Ambiguity-Aware Multi-Object Pose Optimization toward Visually-Assisted Robot Manipulation
@@ -36,7 +36,7 @@
       year: 2020.02.
       description:
         - Robotics Program
-        - Advised by Dr. Ayoung Kim 
+        - Advised by Prof. Ayoung Kim 
         - title: Dissertation
           contents:
             - Learning-based object detection and 6D pose estimation toward vision-based underwater robotic grasping
@@ -45,7 +45,7 @@
       year: 2017.02.
       description:
         - Information Control in Division of Robotics
-        - Advised by Dr. Ick Choy
+        - Advised by Prof. Ick Choy
 
 - title: Experience
   type: time_table
@@ -53,6 +53,7 @@
     - title: Postdoctoral Researcher
       institution: Dept. of Electrical and Computer Engineering, University of Illinois Urbana-Champaign
       year: 2024.09-NOW
+      advisor: Prof. Joogyung Kim (joohyung@illinois.edu)
 
     - title: Postdoctoral Researcher
       institution: Dept. of Mechanical Engineering, Seoul National University
@@ -60,6 +61,8 @@
       description:
         - Leading a research project on transparent object recognition for the robot manipulation.
         - Leading a research project on visual perception for the autonomous driving.
+      advisor: Prof. Ayoung Kim (ayoungk@snu.ac.kr)
+
     - title: Researcher
       institution: Center of Human-centered Interaction for Coexistence (CHIC), Seoul, South Korea
       year: 2017.03-2018.01
