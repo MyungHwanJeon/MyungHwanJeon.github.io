@@ -13,6 +13,7 @@
   contents:
     - title: 
       description: 
+        - Vision-Based Physical AI
         - Robot Vision
         - 6D Object Pose Estimation
         - Visual Simultaneous Localization And Mapping (SLAM)
@@ -27,7 +28,7 @@
       year: 2023.02.
       description:
         - Robotics Program
-        - Advised by Prof. Ayoung Kim (ayoungk@snu.ac.kr) and Prof. Jee-Hwan Ryu (joohyung@illinois.edu)
+        - Advised by Prof. Ayoung Kim (ayoungk@snu.ac.kr) and Prof. Jee-Hwan Ryu (jhryu@kaist.ac.kr)
         - title: Dissertation
           contents:
             - Ambiguity-Aware Multi-Object Pose Optimization toward Visually-Assisted Robot Manipulation
@@ -51,7 +52,7 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher
-      institution: Dept. of Electrical and Computer Engineering, University of Illinois Urbana-Champaign
+      institution: Dept. of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign
       year: 2024.09-NOW      
       description:
         - Advised by Prof. Joogyung Kim (joohyung@illinois.edu)
@@ -141,4 +142,6 @@
         - Intelligent Service Robotics (ISR)
         - IEEE International Conference on Robotics and Automation (ICRA)
         - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+        - Conference on Robot Learning (CoRL)   
+        - International Conference on Computer Vision (ICCV)
         - IEEE International Conference on Ubiquitous Robots (UR)
