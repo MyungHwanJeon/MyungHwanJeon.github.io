@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://myunghwanjeon.github.io/sitemap.xml
+Sitemap: https://sites.google.com/view/raiv-lab#https://myunghwanjeon.github.iohttps://sites.google.com/view/raiv-lab/sitemap.xml
