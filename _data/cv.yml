@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Myung-Hwan Jeon
-    - name: Skills
-      value: C/C++, Python, MATLAB, PyTorch, TensorFlow, Solidworks
-    - name: Languages
-      value: Korean, English
+    # - name: Skills
+    #   value: C/C++, Python, MATLAB, PyTorch, TensorFlow, Solidworks
+    # - name: Languages
+    #   value: Korean, English
 
 - title: Field of Interest
   type: time_table
@@ -51,9 +51,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: Sch. of Electronic Engineering, Kumoh National Institute of Technology
+      year: 2025.09-Now      
     - title: Postdoctoral Researcher
       institution: Dept. of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign
-      year: 2024.09-NOW      
+      year: 2024.09-2025.08      
       description:
         - Advised by Prof. Joogyung Kim (joohyung@illinois.edu)
 
